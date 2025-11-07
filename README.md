@@ -12,10 +12,10 @@ This repository serves as a **professional portfolio** showcasing my capabilitie
 
 The portfolio is structured into separate folders for each major project. Click the links below to explore the code, findings, and documentation for each analysis.
 
-| Project Category | Project Title | Technologies Used |
-| :--- | :--- | :--- |
-| **Data Visualization** | **[Create Visualizations using Matplotlib, Seaborn & Folium](https://github.com/arunsomu23/IBM_Data_Analyst_Capstone_Project/tree/main/Creating%20Visualizations)** |
-| **Dashboarding** | **[Automobile Sales Statistics Dashboard](https://github.com/arunsomu23/IBM_Data_Analyst_Capstone_Project/tree/main/Dashboard |
+| Project Category | Project Title |
+| :--- | :--- |
+| **Data Visualization** | **[Create Visualizations](https://github.com/arunsomu23/IBM_Data_Analyst_Capstone_Project/blob/main)** |
+| **Dashboarding** | **[Automobile Sales Statistics Dashboard](https://github.com/arunsomu23/IBM_Data_Analyst_Capstone_Project/blob/main/IBMCognosDashboard.pdf)** |
 -----
 
 ## 🛠️ Technologies & Skills Demonstrated
